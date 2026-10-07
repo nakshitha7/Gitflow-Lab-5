@@ -1,1 +1,3 @@
-print("Welcome Student")
+def login(username):
+    return "Welcome "+username
+print(login("Student"))
