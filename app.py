@@ -1,3 +1,3 @@
 def login(username):
-    return "Welcome "+username
+    return "Welcome"+ username
 print(login("Student"))
